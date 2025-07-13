@@ -1,1 +1,2 @@
 My notes of software construction and design  course
+It is very interesting course .
