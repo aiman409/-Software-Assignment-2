@@ -1,2 +1,7 @@
 My notes of software construction and design  course
+ HEAD
 It is very interesting course . Here we learn so much about best software practices 
+
+It is very interesting course .
+Collaborator's update: [This is a collaborator's change at 9:28pm]
+ ec311c77f22b9fdbc424c0239fa48536a38176fa
